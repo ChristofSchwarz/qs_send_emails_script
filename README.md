@@ -10,3 +10,7 @@ Related Videos:
  - The connector has been renamed from Notification Connector (as shown in the videos)
   ![screenshot](https://github.com/ChristofSchwarz/pics/raw/master/2019-12-19%2021_32_38-Qlik%20Web%20Connectors%20_%20Qlik%20SMTP%20Connector.png "screenshot")
  - Download and upload to your server this <a href="Send%20Email.qvf">app</a>
+ - Adjust the connections, the folder connections "C" and "SendEmailLog" (this has to point to a temp folder). 
+ - I suppose you will have your own data and don't want "Northwind" MS Access database
+ 
+ 
