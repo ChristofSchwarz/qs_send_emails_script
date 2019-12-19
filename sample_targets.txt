@@ -1,0 +1,7 @@
+EmployeeID; EmployeeEmail; MonthlyTarget
+1; chrisblack@gmx.net; 20000
+2; christof.schwarz@gmx.at; 10000
+3; christof.schwarz@qlik.com; 15000
+4; csw@qlik.com; 10000
+5; csw@qliktech.com; 25000
+6; christof.schwarz@qlikview.com; 30000
