@@ -1,5 +1,4 @@
-# qs_send_emails_script
-Sending Emails and Alerts from Qlik Sense Load Script
+# Sending Emails and Alerts from Qlik Sense Load Script
 
 Related Videos:
  * https://www.youtube.com/watch?v=u4w1BGBmBXw
